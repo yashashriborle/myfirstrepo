@@ -1,3 +1,4 @@
 # myfirstrepo
-this is my first repository
-auther- yashashri borle
+This is my first repository
+<br>
+Author- yashashri borle
